@@ -1,0 +1,23 @@
+/* Reset default browser CSS */
+
+* {
+    margin:0px;
+    padding:0px;
+    border:0px;
+    border:none;
+}
+
+.clear
+{
+    clear:both;
+}
+
+root {
+    display: block;
+}
+
+/* CSS Site */
+
+body{
+    
+}
